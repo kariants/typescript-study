@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "vaihdettu nimi",
+      "age": 666
+    },
+    {
+      "name": "uus tyyppi",
+      "age": 2,
+      "id": 2
+    },
+    {
+      "name": "uus tyyppi",
+      "age": 2,
+      "id": 3
+    },
+    {
+      "name": "uus tyyppi",
+      "age": 2,
+      "id": 4
+    },
+    {
+      "name": "NAME",
+      "age": 24,
+      "id": 5
+    }
+  ]
+}
